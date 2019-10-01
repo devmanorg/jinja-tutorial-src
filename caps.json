@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Красная кепка",
+        "price": "$ 100.00",
+        "img": "https://dvmn.org/filer/canonical/1569333143/329/"
+    },
+    {
+        "title": "Чёрная кепка",
+        "text": "$ 120.00",
+        "img": "https://dvmn.org/filer/canonical/1569333143/330/"
+    },
+    {
+        "title": "Ещё одна чёрная кепка",
+        "text": "$ 90.00",
+        "img": "https://dvmn.org/filer/canonical/1569333144/331/"
+    },
+    {
+        "title": "Камуфляжная кепка",
+        "text": "$ 100.00",
+        "img": "https://dvmn.org/filer/canonical/1569943835/350/"
+    },
+    {
+        "title": "Джинсовая кепка",
+        "text": "$ 100.00",
+        "img": "https://dvmn.org/filer/canonical/1569943835/351/"
+    },
+    {
+        "title": "Плоская кепка",
+        "text": "$ 100.00",
+        "img": "https://dvmn.org/filer/canonical/1569943836/352/"
+    }
+]
