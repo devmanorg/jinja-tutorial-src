@@ -17,5 +17,5 @@ rendered_page = template.render(
     cap3_text="$ 90.00",
 )
 
-with open('index.html', 'w') as file:
+with open('index.html', 'w', encoding="utf8") as file:
     file.write(rendered_page)
